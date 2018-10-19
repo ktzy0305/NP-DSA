@@ -1,0 +1,5 @@
+﻿  banking.cpp
+c:\users\kevin\documents\ngee ann polytechnic\ay 2018 & 2019\semester 4\data structures and algorithms\week 1\banking\banking\banking.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\ngee ann polytechnic\ay 2018 & 2019\semester 4\data structures and algorithms\week 1\banking\banking\banking.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\ngee ann polytechnic\ay 2018 & 2019\semester 4\data structures and algorithms\week 1\banking\banking\banking.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  banking.vcxproj -> C:\Users\Kevin\Documents\Ngee Ann Polytechnic\AY 2018 & 2019\Semester 4\Data Structures and Algorithms\Week 1\banking\Debug\banking.exe
