@@ -1,6 +1,10 @@
 // List.cpp - Implementation of List ADT using Array
 #include "pch.h"
 #include "List.h"  // header file
+#include <string>
+#include <iostream>
+
+using namespace std;
 
 // constructor
 List::List() { size = 0; }
@@ -52,11 +56,11 @@ void List::remove(int index)
 // get an item at a specified position of the list (retrieve)
 ItemType List::get(int index)
 {
-	bool success = (index >= 1) && (index <= size);
-	if (success)
+	//bool success = (index >= 1) && (index <= size);
+	//if (success)
 		return items[index - 1];
-	else
-		return -1;
+	//else
+	//return ;
 }
 
 // check if the list is empty
@@ -68,19 +72,12 @@ int List::getLength() { return size; }
 // display the items in the list
 void List::print()
 {
-	/*
-	for (int i = 1; i <= getLength(); i++)
-	{
-		cout << get(i) << endl;
-	}
-	*/
 	int x = 0;
 	while (x < size)
 	{
-		cout << items[x] << " ";
+		cout <<"["<<x+1<<"]"<< items[x].getName() <<" - "<< items[x].getTelNo() << endl;
 		x++;
 	}
-	cout << endl;
 }
 
 // replace the  item in the specified index in the list

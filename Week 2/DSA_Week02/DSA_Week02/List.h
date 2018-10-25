@@ -1,10 +1,11 @@
 // List.h - - Specification of List ADT
 #pragma once
+#include "Person.h"
 #include <iostream>
 using namespace std;
 
 const int MAX_SIZE = 100;
-typedef int ItemType;  // define  ItemType to be an integer
+typedef Person ItemType;  // define  ItemType to be an integer
 
 class List
 {
