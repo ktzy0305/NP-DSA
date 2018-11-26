@@ -8,3 +8,5 @@
 [Week 4 - Stacks](https://github.com/ktzy0305/NP-DSA/tree/master/Week%204)  
 [Week 5 - Queues](https://github.com/ktzy0305/NP-DSA/tree/master/Week%205)  
 [Week 6 - Recursion](https://github.com/ktzy0305/NP-DSA/tree/master/Week%206)  
+[Week 7 - Searching](https://github.com/ktzy0305/NP-DSA/tree/master/Week%207)  
+[Week 8 - Sorting](https://github.com/ktzy0305/NP-DSA/tree/master/Week%208) 
