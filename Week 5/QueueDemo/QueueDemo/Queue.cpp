@@ -25,7 +25,7 @@ bool Queue::enqueue(ItemType item)
 	}
 	else
 	{
-		backNode = newNode;
+		backNode->next = newNode;
 	}
 	backNode = newNode;
 	return true;
