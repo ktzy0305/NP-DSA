@@ -10,5 +10,5 @@
 [Week 6 - Recursion](https://github.com/ktzy0305/NP-DSA/tree/master/Week%206)  
 [Week 7 - Searching](https://github.com/ktzy0305/NP-DSA/tree/master/Week%207)  
 [Week 8 - Binary Search Trees](https://github.com/ktzy0305/NP-DSA/tree/master/Week%208)   
-[Week 12 - File IO](https://github.com/ktzy0305/NP-DSA/tree/master/Week%209)   
-[Week 13 - AVL Trees](https://github.com/ktzy0305/NP-DSA/tree/master/Week%210)   
+[Week 12 - File IO](https://github.com/ktzy0305/NP-DSA/tree/master/Week%2012)   
+[Week 13 - AVL Trees](https://github.com/ktzy0305/NP-DSA/tree/master/Week%2013)   
